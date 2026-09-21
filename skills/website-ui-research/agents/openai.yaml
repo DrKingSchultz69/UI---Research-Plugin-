@@ -1,0 +1,4 @@
+interface:
+  display_name: Website UI Research
+  short_description: Audit and improve website UI with measurable research
+  default_prompt: Use $website-ui-research to audit this website's UX, visual design, accessibility, performance, and conversion opportunities, then produce a prioritized improvement plan.
